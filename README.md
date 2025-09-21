@@ -11,5 +11,4 @@ Este é um projeto simples feito com HTML, CSS e JavaScript que permite ao usuá
 - Imagem dinâmica de acordo com idade e gênero
 
 ## 👨🏻‍💻 Propósito
-Por mais que seja um projeto extremamente simples, treinar a lógica de programação com javascript foi essencial, são nesses pequenos projetos que vamos evoluindo aos poucos para realizar
-projetos maiores, que já estão em andamento...
+Por mais que seja um projeto extremamente simples, treinar a lógica de programação com javascript foi essencial, pois são nesses pequenos projetos que vamos evoluindo aos poucos para realizar os projetos maiores, que já estão em andamento...
